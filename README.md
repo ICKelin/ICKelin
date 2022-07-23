@@ -5,7 +5,10 @@
 - 😄 [gtun](https://github.com/ICKelin/gtun) - golang开发的基于tproxy+kcp技术的IP加速器
 - 😉 [opennotr](https://github.com/ICKelin/opennotr) - 一款开源的内网穿透项目
 - 😱 [cframe](https://github.com/ICKelin/cframe) - 一个网格VPN项目
-- 😄 [GIPA](https://dash.beyondnetwork.net) - 正在打造的一款全球加速产品
+- 😄 [Beyond network](https://www.beyondnetwork.net) - 正在综合之前项目打造的三个产品
+  - 全球IP加速：基于gtun的基础之上，配合专线以及协议优化实现的IP加速
+  - 内网安全网关：基于notr内网穿透实现的带身份认证的零信任网关
+  - web应用加速：全球IP加速的七层实现
 
 这是我的个人博客地址，日常会在上面分享一些技术 - [个人博客](https://github.com/ICKelin/article)，会涉及到以下分类的文章。
 
