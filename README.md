@@ -4,7 +4,7 @@
 
 - 😄 [全球IP加速](https://www.beyondnetwork.net/%e5%85%a8%e7%90%83%e5%8a%a0%e9%80%9f/) - gtun项目的商业化产品，实现快速，高效的网络加速服务
 - 😉 [SD-WAN组网](https://www.beyondnetwork.net/sd-wan%e7%bb%84%e7%bd%91/) - cframe项目的商业化产品，实现企业分支，分支与云，云与云之间互联的基础设施
-- 😱 [内网安全网关](https://www.beyondnetwork.net/%e9%9b%b6%e4%bf%a1%e4%bb%bb%e7%bd%91%e5%85%b3/) - 我们团队在零信任方向的一个探索，目前产品还在完善当中
+- 😱 [零信任网关](https://www.beyondnetwork.net/%e9%9b%b6%e4%bf%a1%e4%bb%bb%e7%bd%91%e5%85%b3/) - 我们团队在零信任方向的一个探索，目前产品还在完善当中
 
 这是我个人开发的一些开源项目。
 - 😄 [gtun](https://github.com/ICKelin/gtun) - golang开发的基于tproxy+kcp技术的IP加速器
