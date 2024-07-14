@@ -6,8 +6,9 @@
 
 - 😄 [全球IP加速](https://www.beyondnetwork.net/%e5%85%a8%e7%90%83%e5%8a%a0%e9%80%9f/) - gtun项目的商业化产品，实现快速，高效的网络加速服务
 - 😉 [SD-WAN网络平台](https://www.beyondnetwork.net/sd-wan%e7%bb%84%e7%bd%91/) - cframe项目的商业化产品，实现企业分支，分支与云，云与云之间互联的基础设施
-- 😱 [零信任网关](https://www.beyondnetwork.net/%e9%9b%b6%e4%bf%a1%e4%bb%bb%e7%bd%91%e5%85%b3/) - 我们团队在零信任方向的一个探索，目前产品还在完善当中
-
+- 😱 [零信任网关](https://www.beyondnetwork.net/%e9%9b%b6%e4%bf%a1%e4%bb%bb%e7%bd%91%e5%85%b3/) - 一个SDP隐身网关，技术上基于内网穿透+VPN，内网穿透实现隐身，VPN实现认证
+- 😉 [我要投屏](https://51touping.com) - 一个会议室投屏产品，使用浏览器就能投屏，我们在和客户打交道的过程中，一个团队成员觉得这块挺有意思，业余时间尝试做的一款产品
+  
 90%的功能都具备免费版本，由免费用户辐射到企业决策者使我们的产品设计理念。
 
 #### 开源项目
